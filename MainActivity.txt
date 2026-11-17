@@ -1,1 +1,1 @@
-5.0|Online|4.6.0|64 BIT|Auto Server|Menu Server
+1.0|Online|4.7.0|64 BIT|Auto Server|Menu Server
